@@ -1,0 +1,48 @@
+# API and HTTP
+httpx
+requests
+fastapi==0.109.2
+uvicorn==0.27.1
+python-multipart==0.0.9
+pydantic==2.6.1
+
+# Data processing
+numpy
+scikit-learn
+scipy 
+pandas==2.2.3
+python-dateutil
+six
+tzdata
+
+# Image handling
+Pillow
+
+# Time zones and date handling
+pytz 
+geopy
+
+# RSS feed parsing
+atoma
+
+# HTML parsing
+beautifulsoup4
+
+# Document processing
+PyPDF2
+
+# Environment management
+python-dotenv==1.0.1
+
+# XML processing
+lxml
+html5lib
+
+# Text processing
+nltk
+spacy
+textblob
+fuzzywuzzy
+python-Levenshtein
+python-jose==3.3.0
+openai==1.12.0
