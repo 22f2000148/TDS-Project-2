@@ -145,7 +145,7 @@ def use_excel(values=None, sort_keys=None, num_rows=1, num_elements=2):
 def use_devtools():
 
     # Change the secret_code according to your code
-    secret_code = "z1i56itvlr"
+    secret_code = "d3zojmbn1z"
     return secret_code
 
 
@@ -310,7 +310,7 @@ def process_files_with_different_encodings(file_path=None):
 
 def use_github():
     # Change the return value based on your answer.
-    return "https://raw.githubusercontent.com/Sarthak-Sama/Temp-IIT-Assignment-Question/refs/heads/main/email.json"
+    return "https://raw.githubusercontent.com/jvrox/TDS/refs/heads/main/email.json"
 
 
 def replace_across_files(file_path):
